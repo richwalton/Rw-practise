@@ -1,2 +1,2 @@
 # Rw-practice
-practise code
+practice code
